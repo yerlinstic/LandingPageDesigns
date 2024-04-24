@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ecommerCampusM1-1/views"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LandingPageDesigns-2"
+	}
+}
